@@ -7,4 +7,4 @@ A Adugard Home Makefile for OpenWrt Project.
 # Changelog
 - Change install path.
 - Change PKG_NAME to compare rely with [luci-app-AdGuardHome](https://github.com/happyzhang1995/luci-app-adguardhome).
-- AdGuard Home version bump to v0.100.9
+- AdGuard Home version bump to v0.101.0
